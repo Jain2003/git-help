@@ -1,6 +1,6 @@
-**Git help**
+**Git help and workspace setup**
 
-I use this page to update all my learnings of git
+I use this page to update all my learnings of git and setting up my workspace
 
 1. **clone a repo:**
     `git clone https://github.com/your-username/your-repo-name.git`
